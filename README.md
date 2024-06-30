@@ -1,10 +1,8 @@
 # Libros Leidos
 
 <h1>Tokio Blues</h1>  
-
-<body>
-  <p>Inicie a leer el libro el 29-06-20224 en el primer capitulo concoemos a Watanabe y Naoko</p>
-  
+ <p>Inicie a leer el libro el 29-06-20224 en el primer capitulo concoemos a Watanabe y Naoko</p>
+<body>  
     <table border="1">
         <tr>
             <th>Inicio</th>
