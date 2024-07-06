@@ -12,11 +12,16 @@
     <table border="1">
         <tr>
             <th>Inicio</th>
+            <th>En Lectura</th>            
             <th>Final</th>
+            <th>Foto</th>
         </tr>
         <tr>
             <td>29-06-2024</td>
+             <td>X</td>
             <td>EN LECTURA</td>
+            <td>![imagen](https://github.com/SantiagoBaquero/Libros-Leidos/assets/102531445/e8bcd658-672e-4ecd-b521-ad5171b8932f)
+</td> 
         </tr>
     </table>
 </body>
